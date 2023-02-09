@@ -9,3 +9,6 @@
 [本地文件上传至Github](GIT操作/文件上传至Github(单次).md)
 
 [⭐Git食用指南自用版⭐](GIT操作/Git食用指南自用版.md)
+
+## SQL
+[基础语句](SQL/基础语句.md)
