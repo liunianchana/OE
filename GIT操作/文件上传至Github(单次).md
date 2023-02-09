@@ -24,3 +24,16 @@ git remote add origin 链接
 ```text
 git push -u origin master
 ```
+
+# 后续更新上传
+```text
+git add .
+```
+
+```text
+git commit -m "信息"
+```
+
+```text
+git push -u origin master
+```
